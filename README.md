@@ -1,5 +1,5 @@
 # CS-1331
-Introduction to Object-Oriented Programming
+Introduction to Object-Oriented Programming (Java)
 ## Course Description
 CS 1331 teaches students how to develop object-oriented solutions to computational problems. Students learn fundamental concepts of object-oriented programming, basic object-oriented design principles, further develop the programming skills learned in previous courses, write medium-sized object-oriented programs in a modern programming language, and – as the first course required for computer science majors and minors – get a deeper introduction to the field of computer science.
 
